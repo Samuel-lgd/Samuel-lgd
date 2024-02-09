@@ -1,6 +1,6 @@
 - 👋 Hello, je suis Samuel Lagarde
-- 👀 Je suis intéréssé par ReactJs / React Native
-- 🌱 Je suis en seconde année de formation "Developpeur web et web mobile" à l'IPI
+- 👀 Je suis intéréssé par le developpement d'applications web
+- 🌱 Je suis actuellement en alternance en tant que développeur full-stack 
 - 📫 Me contacter: lagarde.samuel@gmail.com
 
 <!---
